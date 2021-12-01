@@ -1,0 +1,17 @@
+C:\Users\MOHIT\source\repos\gproject\bin\Debug\gproject.exe.config
+C:\Users\MOHIT\source\repos\gproject\bin\Debug\gproject.exe
+C:\Users\MOHIT\source\repos\gproject\bin\Debug\gproject.pdb
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.csprojAssemblyReference.cache
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.Billing.resources
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.Employees.resources
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.Items.resources
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.Login.resources
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.Splash.resources
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.Properties.Resources.resources
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.csproj.GenerateResource.cache
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.csproj.CoreCompileInputs.cache
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.exe
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.pdb
+C:\Users\MOHIT\source\repos\gproject\bin\Debug\Guna.UI2.dll
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.csproj.CopyComplete
+C:\Users\MOHIT\source\repos\gproject\obj\Debug\gproject.AdminLogin.resources
